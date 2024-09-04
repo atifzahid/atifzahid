@@ -10,13 +10,13 @@ I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
 
 
 ## 📧 You can contact me on:
-<a href="mailto:mailto:atifzahidjs@outlook.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mailto:atifzahidjs@outlook.com?"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 *I am open to new opportunities/contributions.*
 
 
 ## 🔎 You can find me on:
-<a href="mailto:mailto:atifzahidjs@outlook.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mailto:atifzahidjs@outlook.com?"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 ## Github stats:
