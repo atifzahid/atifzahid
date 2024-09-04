@@ -2,7 +2,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is ATIF).
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is ATIF.
 
 
 I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
